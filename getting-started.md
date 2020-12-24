@@ -1,7 +1,3 @@
----
-description: General Overview
----
-
 # Getting Started
 
 ### What is Lorem Ipsum?
